@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/klamothe1?laburl](https://github.com/Klamothe1/ActivedirectoryLab)
+ - [Active Directory Home Lab](https://github.com/Klamothe1/ActivedirectoryLab)
  - [Hello World!](https://github.com/Klamothe1/Laburl)
 
  <h2> 📄 Certifications</h2>
